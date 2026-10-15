@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "gtm-bud",
+  "displayName": "GTM Bud",
+  "version": "1.0.0",
+  "description": "Run your GTM Bud LinkedIn outbound campaigns from Claude: results, replies, sending accounts and a weekly campaign review.",
+  "author": {
+    "name": "GTM Bud",
+    "url": "https://gtmbud.com/?utm_source=github&utm_medium=readme&utm_campaign=github-oss&utm_content=gtmbud-mcp"
+  },
+  "homepage": "https://gtmbud.com/?utm_source=github&utm_medium=readme&utm_campaign=github-oss&utm_content=gtmbud-mcp",
+  "repository": "https://github.com/startino/gtmbud-mcp",
+  "license": "MIT",
+  "keywords": ["linkedin", "outbound", "sales", "campaigns", "lead generation"],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://github.com/startino/gtmbud-mcp",
+  "supportUrl": "https://gtmbud.com/support?utm_source=github&utm_medium=readme&utm_campaign=github-oss&utm_content=gtmbud-mcp",
+  "privacyPolicyUrl": "https://gtmbud.com/privacy?utm_source=github&utm_medium=readme&utm_campaign=github-oss&utm_content=gtmbud-mcp",
+  "termsOfServiceUrl": "https://gtmbud.com/terms?utm_source=github&utm_medium=readme&utm_campaign=github-oss&utm_content=gtmbud-mcp"
+}

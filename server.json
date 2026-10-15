@@ -1,0 +1,19 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.gtmbud/gtm-bud",
+  "title": "GTM Bud",
+  "description": "Build, launch and monitor GTM Bud LinkedIn outbound campaigns and answer lead replies.",
+  "version": "1.0.0",
+  "websiteUrl": "https://gtmbud.com/gtm-bud-connector?utm_source=github&utm_medium=readme&utm_campaign=github-oss&utm_content=gtmbud-mcp",
+  "repository": {
+    "url": "https://github.com/startino/gtmbud-mcp",
+    "source": "github",
+    "id": "1420247345"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gtmbud.com/mcp"
+    }
+  ]
+}

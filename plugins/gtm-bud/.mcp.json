@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gtm-bud": {
+      "type": "http",
+      "url": "https://gtmbud.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "gtmbud",
+  "description": "The GTM Bud plugin for Claude Code: the GTM Bud connector and a weekly campaign review skill.",
+  "owner": {
+    "name": "GTM Bud"
+  },
+  "plugins": [
+    {
+      "name": "gtm-bud",
+      "source": "./plugins/gtm-bud",
+      "description": "Run your GTM Bud LinkedIn outbound campaigns from Claude Code: results, replies, campaign builds and a weekly campaign review."
+    }
+  ]
+}
